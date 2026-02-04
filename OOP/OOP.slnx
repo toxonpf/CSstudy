@@ -2,4 +2,5 @@
   <Project Path="lw1/lw1.csproj" />
   <Project Path="lw2/lw2.csproj" Id="3751cb0c-1f06-4e25-83b4-bc40361e2fb6" />
   <Project Path="lw3/lw3.csproj" Id="3493ff77-cbb3-4697-8931-ec3192cf1d21" />
+  <Project Path="lw4/lw4.csproj" Id="bf2a4641-62a1-4656-a9aa-8f38994c325f" />
 </Solution>
